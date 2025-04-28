@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Container(
         padding: EdgeInsets.only(top: 50, bottom: 50, left: 30, right: 30),
 
-        color: Colors.blueGrey,
+        color: const Color.fromARGB(255, 74, 75, 75),
         child: Center(
           child: Container(
             padding: EdgeInsets.only(top: 0),
